@@ -5,3 +5,6 @@ https://www.youtube.com/watch?v=co7q47WMKG8
 đo R, L,C  diot, transitor.. LGT328p, atm328p
 https://dzen.ru/a/Z6jQIYuWZz3csS56
 https://drive.google.com/file/d/1vYxLRuQfIWXshp9EMWWWqglWq_gXSUfx/view?usp=sharing
+máy test transitor, mosfet, r l c
+https://youtu.be/PjSNLiGqK3c?si=bStdaCTnBUXEWW4A
+https://github.com/kubi48/TransistorTester-source
