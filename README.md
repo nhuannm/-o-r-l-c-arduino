@@ -8,3 +8,7 @@ https://drive.google.com/file/d/1vYxLRuQfIWXshp9EMWWWqglWq_gXSUfx/view?usp=shari
 máy test transitor, mosfet, r l c
 https://youtu.be/PjSNLiGqK3c?si=bStdaCTnBUXEWW4A
 https://github.com/kubi48/TransistorTester-source
+
+tính C bằng phương pháp tính thời gian nạp vào tụ điện đến mức 63.2% điện áp nguồn
+t = R*C
+https://docs.arduino.cc/tutorials/generic/capacitance-meter/
