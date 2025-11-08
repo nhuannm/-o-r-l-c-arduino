@@ -1,3 +1,5 @@
+<img width="331" height="152" alt="17626124772016500659583222268519" src="https://github.com/user-attachments/assets/8e0f64bc-e860-4887-9f78-ffeaeac92249" />
+
 # -o-r-l-c-arduino đo điện trở, tụ điện, cuộn cảm bằng Arduino nano
 https://github.com/chevichelov/MEASURING_TWEEZER_YCHEV001
 https://www.youtube.com/watch?v=co7q47WMKG8
@@ -12,3 +14,9 @@ https://github.com/kubi48/TransistorTester-source
 tính C bằng phương pháp tính thời gian nạp vào tụ điện đến mức 63.2% điện áp nguồn
 t = R*C
 https://docs.arduino.cc/tutorials/generic/capacitance-meter/
+
+đo LC bằng phương pháp tạo dao động, đo tần số
+https://electronoobs.com/eng_arduino_tut10_3.php
+
+
+
