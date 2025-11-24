@@ -1,3 +1,6 @@
+https://thecavepearlproject.org/2018/10/17/tutorial-adding-a-ssd1306-oled-screen-to-your-arduino-logger/
+http://amasci.com/emotor/chargdet.html
+
 https://ana-dig.com/ct/
 
 <img width="331" height="152" alt="17626124772016500659583222268519" src="https://github.com/user-attachments/assets/8e0f64bc-e860-4887-9f78-ffeaeac92249" />
