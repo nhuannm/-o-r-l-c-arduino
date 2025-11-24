@@ -1,3 +1,6 @@
+
+https://hackaday.io/project/371-hb100-radar-shield
+
 https://thecavepearlproject.org/2018/10/17/tutorial-adding-a-ssd1306-oled-screen-to-your-arduino-logger/
 http://amasci.com/emotor/chargdet.html
 
